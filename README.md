@@ -7,7 +7,7 @@ I use in my environments.
 
 https://yeoman.io
 
-```bash
+```shell
 npm install -g yo
 ```
 
@@ -17,13 +17,17 @@ Each generator is its own thing and needs to be `linked` to Yeoman before it can
 General steps are:
 
 1. Change into generator's folder
-2. Run `npm link` which will install
+2. Run the following
+   ```shell
+    npm install
+    npm link
+   ```
 3. Head over to any folder in your system to use the generator
 
 ## Using a generator
 
 Each generator is a bit different, but generally you will run the command
-```bash
+```shell
 yo <generator_name>
 ```
 

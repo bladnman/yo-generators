@@ -5,6 +5,7 @@
 Make changes here in the project and when done activate this generator
 with `yo` by running:
 ```bash
+npm install
 npm link
 ```
 
