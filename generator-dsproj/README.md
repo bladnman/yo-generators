@@ -8,3 +8,10 @@ with `yo` by running:
 npm link
 ```
 
+## Usage
+
+Head over to any folder that you want this structure exploded
+into and run:
+```bash
+yo dsproj
+```

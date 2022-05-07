@@ -1,0 +1,12 @@
+# Project files
+.ropeproject
+.project
+.pydevproject
+.settings
+.idea
+.vscode
+tags
+
+
+node_modules
+
