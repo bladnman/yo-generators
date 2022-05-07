@@ -1,9 +1,9 @@
 # Data Science Project Generator for Yeoman
 
 
-## Building
-Make changes here in the project and when done activate this generator
-with `yo` by running:
+## Install
+You need to _register_ each generator with `Yo` and to do this you first
+install the generator then link it:
 ```bash
 npm install
 npm link
